@@ -1,6 +1,3 @@
-# Tools
-
-
 # How to Activate Windows 10 Pro
 - Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 - Copy-paste the below code and press enter
