@@ -17,16 +17,18 @@ ZF71R-DMX85-08DQY-8YMNC-PPHV8
 
 ## LAN Messenger
 - An intranet chat application that does not require a server.
-- LAN Messenger is a p2p chat application for intranet communication and does not require a server. A variety of handy features are supported including notifications, personal and group messaging with encryption, file transfer and message logging.
+- LAN Messenger is a p2p chat application for intranet communication and does not require a server. A variety of handy features are supported including notifications, personal and group messaging with encryption, file transfer and message logging. 
 
-## Features
+```
+https://sourceforge.net/projects/lanmsngr/
+```
+
+> Features
 - Personal and group messaging
 - File transfer
 - Message history
 - Notification alarms
 - Message encryption
 - Multilanguage user interface
-```
-https://sourceforge.net/projects/lanmsngr/
-```
+
 
